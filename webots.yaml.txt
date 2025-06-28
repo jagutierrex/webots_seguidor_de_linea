@@ -1,0 +1,4 @@
+# webots.yaml
+# Define la simulación principal a cargar
+worlds:
+  - worlds/line_follower_world.wbt
